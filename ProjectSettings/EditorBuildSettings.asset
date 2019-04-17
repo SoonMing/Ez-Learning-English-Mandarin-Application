@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Interface1.unity
+    guid: fcca724f34fdba241b3184f8782c6541
+  - enabled: 1
+    path: Assets/Interface3.unity
+    guid: 7181ec7dad2f9e94cbfc690756463fa2
+  - enabled: 1
+    path: Assets/Scenes/Scenes/BodyParts.unity
+    guid: 62984e2d2077d5d40a243efc6ec8d546
+  - enabled: 1
+    path: Assets/Scenes/Scenes/Fruits.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Scenes/Numbers.unity
+    guid: e974ef3ae101293409ed3a8027f15240
+  - enabled: 1
+    path: Assets/Scenes/Scenes/Transport.unity
+    guid: 9387847cb50dd9d4e871223edea318ff
+  - enabled: 1
+    path: Assets/Scenes/Scenes/VocabMenu.unity
+    guid: 8e5a6c8e105c78b4692498ed4301b548
+  - enabled: 1
+    path: Assets/Scene3.unity
+    guid: fc21bea85aa11d545861700722374351
+  - enabled: 1
+    path: Assets/eightchinese.unity
+    guid: fb9f94f22caa0bf409c16ce3a2b63353
+  - enabled: 1
+    path: Assets/fivechinese.unity
+    guid: b501d9fa7924a8f4682bdf7b1f090c10
+  - enabled: 1
+    path: Assets/fourchinese.unity
+    guid: 8b98c6c66c2a2324bb5125877349b797
+  - enabled: 1
+    path: Assets/ninechinese.unity
+    guid: 8cf9542c484ac294b95412bd181725a1
+  - enabled: 1
+    path: Assets/onechinese.unity
+    guid: 2ce40985662ba8948b1a83c4e5ca9502
+  - enabled: 1
+    path: Assets/sevenchinese.unity
+    guid: e74bf2cf2dac44e4b8783b3837eb6cf5
+  - enabled: 1
+    path: Assets/sixchinese.unity
+    guid: 532eb1716220cf743ba21e7962089ced
+  - enabled: 1
+    path: Assets/tenchinese.unity
+    guid: 012cec11fb8babe4faf64af39621916f
+  - enabled: 1
+    path: Assets/threechinese.unity
+    guid: 04b0396fffd1d454d8d1a6bb0cdc4af9
+  - enabled: 1
+    path: Assets/Interface2.unity
+    guid: 9624a932ccd99ad4f88a86e218a07c1e
+  - enabled: 1
+    path: Assets/eight.unity
+    guid: bf52d76d138738d4f9eeff34fe97e6df
+  - enabled: 1
+    path: Assets/five.unity
+    guid: 86cd9258a6d78014a92b93690de4611e
+  - enabled: 1
+    path: Assets/four.unity
+    guid: 3e4f9b73223d8db4d8d6cd0967a7e65a
+  - enabled: 1
+    path: Assets/Interface.unity
+    guid: 79494ff878bb0ec4f9d06f1653928ba6
+  - enabled: 1
+    path: Assets/nine.unity
+    guid: 3a7e62aef1b330e4788a51fc31ac30ab
+  - enabled: 1
+    path: Assets/one.unity
+    guid: 62c67e382eda83a44b35d94365a659f5
+  - enabled: 1
+    path: Assets/seven.unity
+    guid: e50b53059632ab944a6bcd4c6366fac8
+  - enabled: 1
+    path: Assets/two.unity
+    guid: 06567969361a01748a05ebb9606cf5d6
+  - enabled: 1
+    path: Assets/Scene2.unity
+    guid: 5b84ce5b22620124a9b585d8e47ad8c0
+  - enabled: 1
+    path: Assets/three.unity
+    guid: e1795bd105489e740a620414f96fd595
+  - enabled: 1
+    path: Assets/six.unity
+    guid: 3a2655cf93a78ae439c391bccd89cb96
+  - enabled: 1
+    path: Assets/Scene1.unity
+    guid: 4e62a5f540ea96344b204f40cd35f876
+  - enabled: 1
+    path: Assets/zero.unity
+    guid: 9e5f6b09f23bcd84c82e5dba5b88eff5
+  - enabled: 1
+    path: Assets/SignUp.unity
+    guid: 6630225c4f5bb04488660784b89ee464
+  - enabled: 1
+    path: Assets/twochinese.unity
+    guid: 9e5c4808d2239d74a933f4c05d06230e
+  - enabled: 1
+    path: Assets/Main2.unity
+    guid: 0e4e62cf11db6e949898a1df07025418
+  - enabled: 1
+    path: Assets/Score.unity
+    guid: f68723e9536ce3841b99419362c2ea31
+  - enabled: 1
+    path: Assets/PerfectScore.unity
+    guid: d8b660acf88783847a9ff0c3c479a65f
+  - enabled: 1
+    path: Assets/ScoreGame1.unity
+    guid: f06c27633da5d824791db3fc0c355930
+  - enabled: 1
+    path: Assets/game1.unity
+    guid: a47a0b9188eb53a4ca4f8b10119dca45
+  - enabled: 1
+    path: Assets/New Scene.unity
+    guid: 2bcbd947114f02a4296aa7020e6adb06
+  m_configObjects: {}
